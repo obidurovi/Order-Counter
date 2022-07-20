@@ -1,0 +1,17 @@
+.fiverr .my-3 {
+    flex: 1;
+}
+
+.fiverr {
+    gap: 10px;
+}
+
+.counter h1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+}
